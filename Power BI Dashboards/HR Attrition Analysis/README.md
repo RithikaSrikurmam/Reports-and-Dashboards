@@ -10,7 +10,7 @@ This project aims to develop a Power BI Dashboard to comprehend employee attriti
 
 ## Dataset
 
-The dataset used for this analysis is sourced from Kaggle [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?select=WA_Fn-UseC_-HR-Employee-Attrition.csv)), includes details such as employee demographics, job attributes, performance ratings, and attrition status, facilitating analysis and understanding of turnover factors.
+The dataset used for this analysis is sourced from Kaggle [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?select=WA_Fn-UseC_-HR-Employee-Attrition.csv), includes details such as employee demographics, job attributes, performance ratings, and attrition status, facilitating analysis and understanding of turnover factors.
 
 ## Steps Undertaken
 
